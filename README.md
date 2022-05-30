@@ -1,4 +1,4 @@
-# Pattern-Recognition-Quizes
+# Pattern-Recognition-Quizzes
 
 A collection of assignments from the Pattern Recognition class I took at AUTH.
 The class was separated in 3 chapters: Data Preprocessing, Classification and Clustering
